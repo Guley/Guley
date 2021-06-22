@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a Full Stack Web Developer based in Mohali, India
+
+    🔭 Technologies I work with: PHP,Codeignitor3/4,Laravel,Angular,VueJs
+    🌱 I’m currently learning about Vue.js, Frontend topics
+    📫 Reach me at @Guley
 
 <!--
 **Guley/Guley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
