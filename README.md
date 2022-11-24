@@ -2,8 +2,8 @@
 
 I'm a ⚡️ Full Stack Web Developer based in Mohali, India
 
-- ⚡️ Technologies I work with: PHP,Codeignitor3/4,Laravel,Angular,VueJs
-- 🌱 I’m currently learning about Vue.js, Frontend topics
+- ⚡️ Technologies I work with: PHP,Codeignitor3/4,Laravel,Angular,VueJs, Shopify, ReactJs
+- 🌱 I’m currently learning about VueJs,ReactJs and Python
 - 📭 Reach me at [@iamguley](https://twitter.com/iamguley)
 
 
