@@ -97,7 +97,7 @@ I'm a **Senior Software Developer** with over 8+ years of proven experience in a
 
 
 ## 📫 How to Reach Me
-- **Email**: gul2787@gmail.com
+- **Email**: gulshans09@outlook.com
 
 ## 📫 Connect With Me
 
